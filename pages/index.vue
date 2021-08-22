@@ -3,3 +3,8 @@
     Dashboard
   </v-row>
 </template>
+<script>
+export default {
+  layout:'customer'
+}
+</script>
